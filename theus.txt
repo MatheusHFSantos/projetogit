@@ -1,3 +1,4 @@
 "uma merda qualquer"
 essa nova linha foi adicionada usando echo
 terceira linha adicionada
+git restore --staged <nome do arquivo> para retornar a versao anterior do arquivo antes de fzr o add
