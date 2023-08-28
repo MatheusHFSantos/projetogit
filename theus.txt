@@ -1,2 +1,3 @@
 "uma merda qualquer"
 essa nova linha foi adicionada usando echo
+terceira linha adicionada
